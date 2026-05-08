@@ -15,25 +15,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/vslxpC7f1f8/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Can I STILL Draw an Eye After 10 Years? 🤯 #artcomeback #pencilsketch #drawingtutorial</video:title>
-      <video:description>Can I STILL Draw an Eye After 10 Years? 🤯 #artcomeback #pencilsketch #drawingtutorial</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=vslxpC7f1f8</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=vslxpC7f1f8</video:player_loc>
-    </video:video>
-  </url>
-
-  <url>
-    <loc>https://oviyamart.github.io/posts/day3-eye.html</loc>
-    <lastmod>2026-05-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:thumbnail_loc>https://img.youtube.com/vi/vslxpC7f1f8/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Day 3 — an eye of a half face</video:title>
-      <video:description>Still improving. Tried HB and B series pencils this time. Back to drawing after years.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=vslxpC7f1f8</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=vslxpC7f1f8</video:player_loc>
+      <video:thumbnail_loc>https://img.youtube.com/vi/vslxpC7f1f8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Can I STILL Draw an Eye After 10 Years</video:title>
+      <video:description>A realistic pencil sketch study documenting the process of returning to graphite drawing after years away from art.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/vslxpC7f1f8</video:player_loc>
     </video:video>
   </url>
 
@@ -43,11 +28,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
-      <video:thumbnail_loc>https://img.youtube.com/vi/_v8SW80I4vU/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Watch this eye into a half face — can I still do this?</video:title>
+      <video:thumbnail_loc>https://img.youtube.com/vi/_v8SW80I4vU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Watch this eye into a half face can I still do this</video:title>
       <video:description>The progression as a sketch grows from a single detailed eye into a realistic half-face portrait. Capturing depth and shadows.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=_v8SW80I4vU</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=_v8SW80I4vU</video:player_loc>
+      <video:player_loc>https://www.youtube.com/embed/_v8SW80I4vU</video:player_loc>
     </video:video>
   </url>
 
@@ -57,11 +41,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/vp__9m9Ruuw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:thumbnail_loc>https://img.youtube.com/vi/vp__9m9Ruuw/hqdefault.jpg</video:thumbnail_loc>
       <video:title>The Stubborn Silence of the Ear</video:title>
       <video:description>Documenting the sheer difficulty of rendering a simple ear after years away from the pencil.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=vp__9m9Ruuw</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=vp__9m9Ruuw</video:player_loc>
+      <video:player_loc>https://www.youtube.com/embed/vp__9m9Ruuw</video:player_loc>
     </video:video>
   </url>
 
@@ -71,11 +54,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/-CGPT9EH1Ew/maxresdefault.jpg</video:thumbnail_loc>
+      <video:thumbnail_loc>https://img.youtube.com/vi/-CGPT9EH1Ew/hqdefault.jpg</video:thumbnail_loc>
       <video:title>The Stubborn Curve of Realism</video:title>
       <video:description>Exploring the unexpected difficulty of capturing lifelike lips in a realistic pencil sketch, and the persistent challenge it presented.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=-CGPT9EH1Ew</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=-CGPT9EH1Ew</video:player_loc>
+      <video:player_loc>https://www.youtube.com/embed/-CGPT9EH1Ew</video:player_loc>
     </video:video>
   </url>
 
@@ -85,11 +67,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/nu9_7WwlBN4/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>New Try: Editing + Sketch… Spot the Mistake #artcomeback  #artjourney #art #pencildrawing</video:title>
-      <video:description>New Try: Editing + Sketch… Spot the Mistake #artcomeback  #artjourney #art #pencildrawing</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=nu9_7WwlBN4</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=nu9_7WwlBN4</video:player_loc>
+      <video:thumbnail_loc>https://img.youtube.com/vi/nu9_7WwlBN4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>New Try: Editing + Sketch Spot the Mistake</video:title>
+      <video:description>A realistic pencil sketch study documenting the process of returning to graphite drawing after years away from art.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/nu9_7WwlBN4</video:player_loc>
     </video:video>
   </url>
 
@@ -99,11 +80,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/NwEIBZEL4KM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:thumbnail_loc>https://img.youtube.com/vi/NwEIBZEL4KM/hqdefault.jpg</video:thumbnail_loc>
       <video:title>The Tremor of Rediscovery</video:title>
       <video:description>Facing the raw challenge of picking up a pencil after years away, and the unexpected resistance it brought.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=NwEIBZEL4KM</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=NwEIBZEL4KM</video:player_loc>
+      <video:player_loc>https://www.youtube.com/embed/NwEIBZEL4KM</video:player_loc>
     </video:video>
   </url>
 
@@ -113,11 +93,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
-      <video:thumbnail_loc>https://img.youtube.com/vi/NwElBZEL4KM/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>No tripod? No problem — DIY art recording hack</video:title>
+      <video:thumbnail_loc>https://img.youtube.com/vi/NwElBZEL4KM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>No tripod? No problem DIY art recording hack</video:title>
       <video:description>You don't need fancy equipment to start your art journey. A kitchen spoon and an A4 sheet is enough.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=NwElBZEL4KM</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=NwElBZEL4KM</video:player_loc>
+      <video:player_loc>https://www.youtube.com/embed/NwElBZEL4KM</video:player_loc>
     </video:video>
   </url>
 
@@ -127,25 +106,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/KSMijqWnYFY/maxresdefault.jpg</video:thumbnail_loc>
+      <video:thumbnail_loc>https://img.youtube.com/vi/KSMijqWnYFY/hqdefault.jpg</video:thumbnail_loc>
       <video:title>The Unfamiliar Weight of the Pencil</video:title>
       <video:description>Revisiting the intricate details of an eye with a pencil after a long hiatus, confronting the initial resistance.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=KSMijqWnYFY</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=KSMijqWnYFY</video:player_loc>
-    </video:video>
-  </url>
-
-  <url>
-    <loc>https://oviyamart.github.io/posts/returning-eye.html</loc>
-    <lastmod>2026-05-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:thumbnail_loc>https://img.youtube.com/vi/KSMijqWnYFY/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Returning after 10 years and completing the eye</video:title>
-      <video:description>First sketch after a decade-long break. Documenting the process of picking up the pencil again.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=KSMijqWnYFY</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=KSMijqWnYFY</video:player_loc>
+      <video:player_loc>https://www.youtube.com/embed/KSMijqWnYFY</video:player_loc>
     </video:video>
   </url>
 
@@ -155,53 +119,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/CEb5VitDblw/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Returning to Art after 10+ Years  #artcomeback #artjourney #drawingforbeginners #pencildrawing</video:title>
-      <video:description>Returning to Art after 10+ Years  #artcomeback #artjourney #drawingforbeginners #pencildrawing</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=CEb5VitDblw</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=CEb5VitDblw</video:player_loc>
-    </video:video>
-  </url>
-
-  <url>
-    <loc>https://oviyamart.github.io/posts/spot-the-mistake.html</loc>
-    <lastmod>2026-05-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:thumbnail_loc>https://img.youtube.com/vi/nu9_7WwlBN4/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Spot the mistake — can you find it?</video:title>
-      <video:description>Second sketch after coming back to art. Tried using editing software this time. One deliberate mistake is hidden in the drawing. Can you find it?</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=nu9_7WwlBN4</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=nu9_7WwlBN4</video:player_loc>
-    </video:video>
-  </url>
-
-  <url>
-    <loc>https://oviyamart.github.io/posts/watch-this-eye-into-a-half-face-can-i-still-do-thi.html</loc>
-    <lastmod>2026-05-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/_v8SW80I4vU/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Watch This Eye Into a Half Face! Can I Still Do This! #drawing #art #sketch #pencildrawing #shorts</video:title>
-      <video:description>Watch This Eye Into a Half Face! Can I Still Do This! #drawing #art #sketch #pencildrawing #shorts</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=_v8SW80I4vU</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=_v8SW80I4vU</video:player_loc>
-    </video:video>
-  </url>
-
-  <url>
-    <loc>https://oviyamart.github.io/posts/week1.html</loc>
-    <lastmod>2026-05-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:thumbnail_loc>https://img.youtube.com/vi/CEb5VitDblw/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Week 1 — Warm-up first, then the real thing</video:title>
-      <video:description>Week 1 of returning to pencil sketch drawing after 10 years. Warm-up exercises, a 90-minute eye, and the gap between seeing and doing.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=CEb5VitDblw</video:content_loc>
-      <video:player_loc>https://www.youtube.com/watch?v=CEb5VitDblw</video:player_loc>
+      <video:thumbnail_loc>https://img.youtube.com/vi/CEb5VitDblw/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Returning to Art after 10+ Years</video:title>
+      <video:description>A realistic pencil sketch study documenting the process of returning to graphite drawing after years away from art.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/CEb5VitDblw</video:player_loc>
     </video:video>
   </url>
 
