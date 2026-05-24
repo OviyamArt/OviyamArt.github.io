@@ -4,14 +4,40 @@
 
   <url>
     <loc>https://oviyamart.github.io/</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
+    <loc>https://oviyamart.github.io/posts/lips-sketch-horizontal-hd-crop-mistake.html</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/GDkLdp5P4Bw/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Why My Lips Sketch Looked Broken on Shorts</video:title>
+      <video:description>Why my lips sketch Short looked blurry and stretched — the horizontal HD to vertical crop mistake explained.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/GDkLdp5P4Bw</video:player_loc>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://oviyamart.github.io/posts/pixabay-copyright-claim-youtube-shorts.html</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Ufm6jrX8Llo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Why My YouTube Short Stopped at 180 Views</video:title>
+      <video:description>How a Pixabay audio track triggered a copyright claim and stopped my YouTube Short at 180 views.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Ufm6jrX8Llo</video:player_loc>
+    </video:video>
+  </url>
+
+  <url>
     <loc>https://oviyamart.github.io/posts/why-nose-are-harder-than-eyes.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -24,7 +50,7 @@
 
   <url>
     <loc>https://oviyamart.github.io/posts/can-i-still-draw-an-eye-after-10-years-artcomeback.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -37,7 +63,7 @@
 
   <url>
     <loc>https://oviyamart.github.io/posts/half-face.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -50,7 +76,7 @@
 
   <url>
     <loc>https://oviyamart.github.io/posts/i-tried-drawing-after-a-10-year-break-this-happene.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -63,7 +89,7 @@
 
   <url>
     <loc>https://oviyamart.github.io/posts/lips-are-the-hardest-part-watch-me-find-out-why-pe.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -76,7 +102,7 @@
 
   <url>
     <loc>https://oviyamart.github.io/posts/new-try-editing-sketch-spot-the-mistake-artcomebac.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -89,7 +115,7 @@
 
   <url>
     <loc>https://oviyamart.github.io/posts/no-tripod-no-problem-diy-art-hack-shorts-drawing-a.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -102,7 +128,7 @@
 
   <url>
     <loc>https://oviyamart.github.io/posts/no-tripod.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -115,7 +141,7 @@
 
   <url>
     <loc>https://oviyamart.github.io/posts/returning-after-10-years-and-completing-the-eye-ar.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -128,7 +154,7 @@
 
   <url>
     <loc>https://oviyamart.github.io/posts/returning-to-art-after-10-years-artcomeback-artjou.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
