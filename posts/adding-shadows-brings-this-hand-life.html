@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="This session was a battle of wills, where the simple act of adding shadows felt like lifting a heavy burden, until the form finally emerged.">
+  <meta property="og:title" content="The Weight of Shadows, and the Lift of Form · OviyamArt">
+  <meta property="og:image" content="https://i.ytimg.com/vi/R2OxkpoMgp4/maxresdefault.jpg">
+  <meta name="keywords" content="sketch, pencil sketch, realistic drawing, art, oviyam art, pencil sketch, realistic drawing">
+  <meta name="yt-api-key" content="AIzaSyBW5Pe1BnRmD2pYAAPAreGH1YnHHwzmG6A">
+  <title>The Weight of Shadows, and the Lift of Form · OviyamArt</title>
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
+  <style>
+    :root{--ink:#1a1916;--ink-soft:#2d2b27;--ink-muted:#6b6860;
+    --ink-ghost:#a09d97;--paper:#f8f6f1;--paper-warm:#f2efe7;
+    --paper-mid:#edeae2;--rule:#d9d5cc;--rule-soft:#e6e2d9;
+    --serif:"EB Garamond",Georgia,serif;--mono:"DM Mono",monospace;}
+    *{box-sizing:border-box;margin:0;padding:0}
+    html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+    body{background:var(--paper);color:var(--ink-soft);font-family:var(--serif);font-size:17px;line-height:1.75;min-height:100vh}
+    .wrap{max-width:700px;margin:0 auto;padding:0 28px;animation:rise 0.55s cubic-bezier(.4,0,.2,1) both}
+    @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+    a{color:inherit;text-decoration:none}
+    .topbar{display:flex;align-items:center;justify-content:space-between;padding:24px 0 20px;border-bottom:1px solid var(--rule);margin-bottom:52px}
+    .brand{display:flex;align-items:center;gap:10px}
+    .brand-logo{width:28px;height:28px;border-radius:50%;object-fit:cover}
+    .brand-name{font-style:italic;font-size:16px;color:var(--ink)}
+    .back-btn{font-family:var(--mono);font-size:10.5px;font-weight:300;color:var(--ink-muted);letter-spacing:.09em;text-transform:uppercase;border-bottom:1px solid transparent;transition:color .2s,border-color .2s}
+    .back-btn:hover{color:var(--ink);border-bottom-color:var(--ink)}
+    .post-kicker{font-family:var(--mono);font-size:10px;font-weight:300;color:var(--ink-ghost);letter-spacing:.13em;text-transform:uppercase;margin-bottom:14px}
+    h1{font-size:clamp(26px,5.5vw,40px);font-weight:400;line-height:1.2;letter-spacing:-.5px;color:var(--ink);margin-bottom:12px}
+    .post-subtitle{font-size:17px;font-style:italic;color:var(--ink-muted);line-height:1.55;margin-bottom:16px}
+    .post-meta{font-family:var(--mono);font-size:10px;font-weight:300;color:var(--ink-ghost);letter-spacing:.06em;display:flex;gap:16px;flex-wrap:wrap;margin-bottom:8px}
+    /* FIX 5: YouTube stats display */
+    .yt-stats{font-family:var(--mono);font-size:10px;font-weight:300;color:var(--ink-ghost);letter-spacing:.06em;display:flex;gap:16px;flex-wrap:wrap;margin-bottom:36px;min-height:16px}
+    .yt-stats span{display:inline-flex;align-items:center;gap:4px}
+    .yt-stats svg{width:10px;height:10px;fill:currentColor;opacity:.6}
+    .divider{height:1px;background:var(--rule-soft);margin:36px 0}
+
+    /* FIX 4: Video container — standard 16:9 */
+    .video-wrap{margin:36px 0;background:var(--paper-warm);border:1px solid var(--rule)}
+    .video-wrap iframe{width:100%;aspect-ratio:16/9;border:none;display:block}
+
+    /* FIX 4: Shorts container — portrait, centered, max 360px wide */
+    .video-wrap.is-short{
+      display:flex;flex-direction:column;align-items:center;
+      background:var(--ink);border-color:var(--ink);
+      padding:0;
+    }
+    .video-wrap.is-short iframe{
+      width:100%;max-width:360px;aspect-ratio:9/16;
+      border:none;display:block;
+    }
+    .short-label{
+      font-family:var(--mono);font-size:9px;font-weight:300;
+      letter-spacing:.16em;text-transform:uppercase;
+      color:rgba(250,248,244,0.35);padding:10px 0 12px;
+      width:100%;text-align:center;background:var(--ink);
+    }
+
+    .content h2{font-size:21px;font-weight:400;line-height:1.3;margin:36px 0 14px;color:var(--ink);font-style:italic}
+    .content p{font-size:17.5px;line-height:1.88;margin-bottom:22px;color:var(--ink-soft)}
+    .content p:first-of-type::first-letter{font-size:52px;font-weight:400;line-height:.82;float:left;margin:5px 8px 0 0;color:var(--ink)}
+    .content strong{font-weight:500;color:var(--ink)}
+    .post-footer{margin-top:56px;padding-top:28px;border-top:1px solid var(--rule-soft);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:14px}
+    .footer-links{display:flex;gap:20px}
+    .footer-links a,.post-back{font-family:var(--mono);font-size:10px;font-weight:300;color:var(--ink-muted);letter-spacing:.09em;text-transform:uppercase;border-bottom:1px solid transparent;transition:color .2s,border-color .2s;display:inline-flex;align-items:center;gap:5px}
+    .footer-links a:hover,.post-back:hover{color:var(--ink);border-bottom-color:var(--ink)}
+    .footer-links svg{width:11px;height:11px;fill:currentColor}
+    @media(max-width:520px){.topbar{flex-direction:column;align-items:flex-start;gap:10px}.content p:first-of-type::first-letter{font-size:40px}.wrap{padding:0 20px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <a class="brand" href="/"><img class="brand-logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL+viUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAAJRklEQVR4nK1ZbWxM2Rv/3beZ3hnTmWlHaU1F0drVbqPeVdHu1kt08UHJEltNZBHSKF9EgqAJywf/ig8+KCslaxPZrG1ESmWJVoq1yW5Ysc1skCJE1DQ7U+TOzO//gXs6t52+eDnJSabnPuc5v+f9OacSAOIjhizLkCQJkiRZ1kla5ocO6UMAyrIMWZYRiUQGRa8oCgAgGo2+71HvB1CWZQBALBYTa6NHj8b48eMxatQopKSkAACCwSAePHiAe/fuoa2trfuwd5qO3/9JAEqSBEVRhMZmzJiByspKFBUVwe12IxQKoaOjA11dXZBlGW63G8OGDYPb7UZnZyeamppw/PhxNDc3C0Hfx/Tsb8qyLH7PmTOHly9fZiAQ4NGjR1lWVsa0tLSE+yRJ4pgxY/jdd9+xqamJwWCQFy5cYHFxsYVmoPP7BagoCgFQ0zQeO3aMbW1trKqqosPhSCiIoihUFMUilDnz8vL46NAh3rp1izt37mRycnIvBbwXQBNcVlYW79y5wx9++IFDhgwR31VVpaIofWpBkiTKsizozPXp06fz6NGjrK2tZWZm5mBA9g0uLy+Pjx494po1ayzABmmaXho29w0bNoxbtmxhTU0N/X7/QCAT+1xmZibv37/PsrIyYeYPAdYX/+TkZJaXl3PDhg1MSUnpzyetZlEUhaqq8vr161y5ciUB0GazCeaqqgqzmb8HAm7SxZ8DgC6Xi6WlpVy2bBltNhslSUrEq7dp9+7dy8OHD1s0N5Azx/tZT6H7W/d6vSwuLub06dMTmlrFuyHLMmKxGHJyclBaWopZs2ZBURTEYjGRs7744gvMmzcP+fn50HUdjx8/RktLCxobGxEOh6EoSq9qQRKbNm2Cx+PB3r17YRgGJEkSOTAYDOLevXvIzc1FamoqXrx4YfkuNGhqoK6ujhUVFUJ7AOjz+XjixAn2NQKBAMvLyy18zAifNGmSoFu2bJkwebyWdF3n6NGjWVBQkEjr3QsjRozgxYsXqWkaVVWlLMscPnw4b9++TZK8c+cO165dy/z8fGZnZ7OkpIRHjhwRAKqrqwU4E2h9fb341tamtBdJEmix+Phfn6+yI9xILsl2rhxI3fs2GHxvcbGRpLkqVOnqOt6Qn+aO3cug8EgSXL27Nli3e/3s6uri//88w9v3bpFkiwqKkros3a7nX6/n1lZWb0BmsQnTpzglClTxKYFCxaQJP/66y9hbk3TKMuyqBxmhFdWVpIkm5ubhQZ27dpFkqysrGRpaSlJ8uefX0JiJxcUgdT3ANk2uTmlyQh3" alt="OA"><span class="brand-name">OviyamArt</span></a>
+    <a class="back-btn" href="/">&#8592; All posts</a>
+  </div>
+  <p class="post-kicker">Challenge &nbsp;&middot;&nbsp; June 19, 2026</p>
+  <h1>The Weight of Shadows, and the Lift of Form</h1>
+  <p class="post-subtitle">This session was a battle of wills, where the simple act of adding shadows felt like lifting a heavy burden, until the form finally emerged.</p>
+  <div class="post-meta">sketch, pencil sketch, realistic drawing, art</div>
+  <div class="yt-stats" id="yt-stats">  </div>
+  <div class="video-wrap is-short">
+    <iframe src="https://www.youtube.com/embed/R2OxkpoMgp4?rel=0"
+            allowfullscreen loading="lazy" title="The Weight of Shadows, and the Lift of Form"></iframe>
+    <div class="short-label">YouTube Short</div>
+  </div>
+  <div class="divider"></div>
+  <div class="content">
+<h2>The Silent Language of a Simple Hand</h2>
+<p>I sat down with the intention of drawing a hand. A seemingly simple subject, yet it holds so much complexity. My own hand, resting on the paper, looked ordinary enough, but translating its curves and planes onto a flat surface always feels like a monumental task. After more than a decade away, my muscle memory for realistic pencil sketch felt like a distant echo, not a guiding force. I found myself staring at the blank page, a familiar tightness in my chest, wondering if I could truly capture the essence of something so familiar.
+</p>
+<p>There was a resistance, almost a physical barrier, between my eye and my hand. The initial lines felt tentative, almost apologetic. It's strange how something you once did with ease can become such a formidable opponent. I kept reminding myself that this OviyamArt journey is about authentic artistic progression, not instant perfection. Still, the blankness of the page felt like a judgment, not an invitation.
+</p>
+<h2>Wrestling with the Graphite</h2>
+<p>The real struggle began when I started to introduce shadows. It wasn't just about darkening areas; it was about sculpting form, about giving weight and depth to something that initially felt flat and lifeless. Every stroke of the graphite pencil felt like an experiment, a question mark. Is this too dark? Is that curve deep enough? The fear of overworking, of making the hand look muddy or bruised, was constant.
+</p>
+<p>My hand moved slowly, painstakingly, layering graphite, trying to build up the subtle transitions that define
+</p>
+  </div>
+  <div class="post-footer">
+    <div class="footer-links">
+      <a href="https://youtube.com/@OviyamArt" target="_blank"><svg viewBox="0 0 24 24"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zM9.7 15.5V8.5l6.3 3.5-6.3 3.5z"/></svg> YouTube</a>
+      <a href="https://instagram.com/oviyam__art" target="_blank"><svg viewBox="0 0 24 24"><path d="M12 2.2c3.2 0 3.6 0 4.9.1 3.3.1 4.8 1.7 4.9 4.9.1 1.3.1 1.6.1 4.8s0 3.6-.1 4.8c-.1 3.2-1.7 4.8-4.9 4.9-1.3.1-1.6.1-4.9.1s-3.6 0-4.8-.1c-3.3-.1-4.8-1.7-4.9-4.9C2.2 15.6 2.2 15.3 2.2 12s0-3.6.1-4.8C2.4 3.9 4 2.3 7.2 2.3c1.2-.1 1.6-.1 4.8-.1zM12 0C8.7 0 8.3 0 7.1.1 2.7.3.3 2.7.1 7.1 0 8.3 0 8.7 0 12c0 3.3 0 3.7.1 4.9.2 4.4 2.6 6.8 7 7C8.3 24 8.7 24 12 24s3.7 0 4.9-.1c4.4-.2 6.8-2.6 7-7 .1-1.2.1-1.6.1-4.9 0-3.3 0-3.7-.1-4.9C23.7 2.7 21.3.3 16.9.1 15.7 0 15.3 0 12 0zm0 5.8a6.2 6.2 0 1 0 0 12.4A6.2 6.2 0 0 0 12 5.8zm0 10.2a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.4-11.8a1.4 1.4 0 1 0 0 2.8 1.4 1.4 0 0 0 0-2.8z"/></svg> Instagram</a>
+    </div>
+    <a class="post-back" href="/">&#8592; Back</a>
+  </div>
+</div>
+
+<script>
+(function() {
+  var VID = "R2OxkpoMgp4";
+  var KEY = document.querySelector('meta[name="yt-api-key"]')
+               ?.getAttribute('content')
+            || window.YT_API_KEY;
+  if (!KEY) return;  // gracefully skip if no key
+
+  fetch("https://www.googleapis.com/youtube/v3/videos?part=statistics&id=" + VID + "&key=" + KEY)
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      var stats = data?.items?.[0]?.statistics;
+      if (!stats) return;
+      var views = parseInt(stats.viewCount || 0);
+      var likes = parseInt(stats.likeCount || 0);
+      function fmt(n) {
+        if (n >= 1000000) return (n/1000000).toFixed(1).replace(/\.0$/,'') + 'M';
+        if (n >= 1000) return (n/1000).toFixed(1).replace(/\.0$/,'') + 'K';
+        return n.toString();
+      }
+      var el = document.getElementById('yt-stats');
+      if (el) {
+        el.innerHTML =
+          '<span><svg viewBox="0 0 24 24"><path d="M12 4.5C7 4.5 2.7 7.6 1 12c1.7 4.4 6 7.5 11 7.5s9.3-3.1 11-7.5C21.3 7.6 17 4.5 12 4.5zm0 12.5a5 5 0 1 1 0-10 5 5 0 0 1 0 10zm0-8a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"/></svg>' + fmt(views) + ' views</span>'
+          + '<span><svg viewBox="0 0 24 24"><path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.3l.9-4.6.03-.3c0-.4-.2-.8-.5-1.1l-1.1-1-6.6 6.6c-.4.4-.6.9-.6 1.4V19c0 1.1.9 2 2 2h9c.8 0 1.5-.5 1.8-1.2l3-7c.1-.3.1-.5.1-.8v-2z"/></svg>' + fmt(likes) + ' likes</span>';
+      }
+    })
+    .catch(function() { /* silently fail — stats are decorative */ });
+})();
+</script>
+</body>
+</html>
